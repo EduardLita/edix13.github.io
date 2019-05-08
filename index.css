@@ -1,0 +1,179 @@
+body {
+  margin:0px;
+  overflow: hidden;
+}
+
+#fpage {
+position:absolute;
+ top: 0px;
+ bottom: 0px;
+ width: 100%;
+ height: 100%
+}
+
+#asgard {
+  position:absolute;
+  background-color: #BD5532;
+  width: 100%;
+  height: 60px;
+  display: inline-flex;
+  padding: 15px;
+  top:0px;
+
+  border-bottom: 1px solid #000;
+}
+
+
+#shitboyy{
+  float : right !important;
+  position: relative;
+  display: block;
+  margin-left: auto;
+  color: #DEE1B6;
+  font-size: 24px;
+}
+
+#shitboyy:hover {
+  color: #373B44;
+}
+
+#asgard h3 {
+  color: #DEE1B6;
+  font-family: Saucer;
+  margin:0px;
+  position: relative;
+  float : left !important;
+  display: block;
+}
+
+#midgard {
+  width: 100%;
+  height: 100%;
+  position:absolute;
+  background-color: #E1B866;
+  top:60px;
+  bottom: 40px;
+}
+
+#acpage {
+  position: absolute;
+  top: 0px;
+  bottom: 100px;
+  right: 0px;
+  left: 0px;
+  padding:15px;
+  overflow-y: auto;
+  overflow-x: hidden;
+
+  color: #373B44;
+  font-size: 14px;
+
+  scrollbar-face-color: #BD5532;
+  scrollbar-shadow-color: #E1B866;
+  scrollbar-highlight-color: #E1B866;
+  scrollbar-3dlight-color: #E1B866;
+  scrollbar-darkshadow-color: #E1B866;
+  scrollbar-track-color: #E1B866;
+  scrollbar-arrow-color: #E1B866;
+  }
+
+  #acpage::-webkit-scrollbar {
+      width: 12px;
+  }
+
+  #acpage::-webkit-scrollbar-track {
+      -webkit-box-shadow: inset 0 0 6px #000;
+      /*-webkit-border-radius: 10px;
+      border-radius: 10px;*/
+  }
+
+  #acpage::-webkit-scrollbar-thumb {
+      /*-webkit-border-radius: 10px;
+      border-radius: 10px;*/
+      background: #BD5532;
+      -webkit-box-shadow: inset 0 0 6px #000;
+}
+
+#acpage p {
+  font-weight: bold;
+  padding: 10px;
+}
+
+#slider_menu {
+  background: #373B44;
+  width: 200px;
+  height: 100%;
+  position: absolute;
+  top: 0px;
+  bottom: 40px;
+  right: -200px;
+  border-left: 1px solid #000;
+
+}
+
+#slider_menu  ul {
+  margin: 0px;
+  padding: 10px;
+}
+
+#slider_menu  li {
+  display: block;
+  margin-top: 10px;
+  font-family: Saucer;
+  color: #DEE1B6;
+  padding-left: 10px;
+  border-left: 5px solid #DEE1B6;
+  cursor: default;
+}
+
+#slider_menu  li:hover {
+  border-left: 10px solid #DEE1B6;
+  color: #BD5532;
+}
+
+#loki {
+  align-content: center;
+  position:absolute;
+  background-color: #BD5532;
+  width: 100%;
+  height: 40px;
+  display: inline-flex;
+  padding: 10px;
+  bottom:0px;
+
+  border-top: 1px solid #000;
+}
+
+#loki h4 {
+    font-family: Saucer;
+    margin: auto;
+    color: #DEE1B6;
+
+}
+
+#page_header {
+  width: 50%;
+  margin: 0px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #373B44;
+  color: #E1B866;
+  font-family: Saucer;
+  padding: 10px;
+}
+
+#wh40k_chapter {
+  width: 35%;
+  margin: 0px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  background-color: #BD5532;
+  color: #E1B866;
+  font-family: Saucer;
+  padding: 10px;
+}
+
+#spec_img {
+  border : 5px solid #BD5532;
+  border-radius: 20px;
+}

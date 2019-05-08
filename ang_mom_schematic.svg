@@ -1,0 +1,111 @@
+<svg xmlns="http://www.w3.org/2000/svg"
+     xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="748" height="544"
+     viewBox="0 0 748 544"
+     version="1.1">
+
+<g name="mistake" transform="translate(0, 68)">
+<g name="ground">
+
+
+
+<path d="M 0 340 l 68 -68 v 68 h -68" stroke-width="1" stroke="#000" fill="#575B54" />
+
+<path d="M 68 204 h 136 l 68 -68 h -136 l -68 68" stroke-width="1" stroke="#000" fill="#575B54" />
+
+<path d="M 204 340 h 476 l 68 -68 h -476 l -68 68" stroke-width="1" stroke="#000" fill="#575B54" />
+
+<path d="M 204 204 v 136 l 68 -68 v -136 l -68 68" stroke-width="1" stroke="#000" fill="#474B54" />
+
+<path d="M 680 340 v 136 l 68 -68 v -136 l -68 68" stroke-width="1" stroke="#000" fill="#474B54" />
+
+<path d="M 0 340 h 68 v -136 h 136 v 136 h 476 v 136 h -680 v -136" stroke-width="1" stroke="#000" fill="#373B44" />
+
+</g>
+
+<g name="mblock">
+
+<path d="M 68 68 h 136 l 68 -68 h -136 l -68 68" stroke-width="1" stroke="#000" fill="#DD7542" />
+
+<path d="M 204 68 v 136 l 68 -68 v -136 l -68 68" stroke-width="1" stroke="#000" fill="#CD6532" />
+
+<path d="M 68 204 h 136 v -136 h -136 v 136 " stroke-width="1" stroke="#000" fill="#BD5532" />
+
+
+</g>
+
+<g name="mblock">
+
+<path d="M 68 68 h 136 l 68 -68 h -136 l -68 68" stroke-width="3" stroke="#000" fill="#DD7542" />
+
+<path d="M 204 68 v 136 l 68 -68 v -136 l -68 68" stroke-width="3" stroke="#000" fill="#CD6532" />
+
+<path d="M 68 204 h 136 v -136 h -136 v 136 " stroke-width="3" stroke="#000" fill="#BD5532" />
+
+</g>
+
+<g name="mblock">
+
+<path d="M 204 204 h 136 l 68 -68 h -136 l -68 68" stroke-width="3" stroke="#000" fill="#DD7542" />
+
+<path d="M 340 204 v 136 l 68 -68 v -136 l -68 68" stroke-width="3" stroke="#000" fill="#CD6532" />
+
+<path d="M 204 340 h 136 v -136 h -136 v 136 " stroke-width="3" stroke="#000" fill="#BD5532" />
+
+</g>
+
+<g name="mblock">
+
+<path d="M 340 204 h 136 l 68 -68 h -136 l -68 68" stroke-width="3" stroke="#000" fill="#DD7542" />
+
+<path d="M 476 204 v 136 l 68 -68 v -136 l -68 68" stroke-width="3" stroke="#000" fill="#CD6532" />
+
+<path d="M 340 340 h 136 v -136 h -136 v 136 " stroke-width="3" stroke="#000" fill="#BD5532" />
+
+</g>
+
+<g name="mblock">
+
+<path d="M 204 68 h 136 l 68 -68 h -136 l -68 68" stroke-width="3" stroke="#000" fill="#73C8A9" />
+
+<path d="M 340 68 v 136 l 68 -68 v -136 l -68 68" stroke-width="3" stroke="#000" fill="#63b889" />
+
+<path d="M 204 204 h 136 v -136 h -136 v 136 " stroke-width="3" stroke="#000" fill="#53A889" />
+
+</g>
+
+<g name="mblock">
+
+<path d="M 476 340 h 136 l 68 -68 h -136 l -68 68" stroke-width="3" stroke="#000" fill="#73C8A975" />
+
+<path d="M 544 272 h 136 v -136 h -136 v 136 " stroke-width="3" stroke="#000" fill="#53A88975" />
+
+<path d="M 476 204 h 136 l 68 -68 h -136 l -68 68" stroke-width="3" stroke="#000" fill="#73C8A975" />
+
+<path d="M 612 204 v 136 l 68 -68 v -136 l -68 68" stroke-width="3" stroke="#000" fill="#63b88975" />
+
+
+<path d="M 476 340 h 136 v -136 h -136 v 136 " stroke-width="3" stroke="#000" fill="#53A88975" />
+
+</g>
+
+<g name="mblock">
+
+<path d="M 380 107 l 68 -68 l 96.16 96.16 l -68 68 l -96.16 -96.16" stroke-width="3" stroke="#000" fill="#53A88975" />
+
+<path d="M 544 136 l -96.16 -96.16  l 96.16 -96.16 l 96.16 96.16 l -96.16 96.16" stroke-width="3" stroke="#000" fill="#53A88975" />
+
+<path d="M 476 11 l 68 -68 l 96.16 96.16 l -68 68 l -96.16 -96.16" stroke-width="3" stroke="#000" fill="#53A88975" />
+
+<path d="M 476 204 l -96.16 -96.16  l 96.16 -96.16 l 96.16 96.16 l -96.16 96.16" stroke-width="3" stroke="#000" fill="#53A88975" />
+
+</g>
+
+<path d="M 544 276 a 136 136 0 0 0 -68 -176" stroke-width="13" stroke="#F1DA40" fill="none" />
+
+<circle cx="544" cy="276" r="10" stroke="none" stroke-width="0" fill="#F1bA20" />
+
+<path d="M 476 100 h 40 h -40 v 40" stroke-width="13" stroke="#F1bA20" fill="none" />
+
+</g>
+</svg>
